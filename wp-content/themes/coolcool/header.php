@@ -42,7 +42,7 @@
 		<div class="part2">
 		<div>
 			<div>
-				<p><strong>best</strong>essay4you.co.uk</p>
+				<p style="cursor: pointer;" onclick="window.location = '/';"><strong>best</strong>essay4you.co.uk</p>
 				<div class="empty"></div>
 				<div class="call-us">
 					<div><img src="<?php echo bloginfo('template_url'); ?>/images/mobile-icon.png"></div>
