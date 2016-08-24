@@ -1,0 +1,614 @@
+@font-face {
+  font-family: 'MuseoSans-Light';
+  src: url('fonts/museosans-300-webfont.ttf');
+}
+
+@font-face {
+  font-family: 'MuseoSans-Medium';
+  src: url('fonts/museosans_500-webfont.ttf');
+}
+
+@font-face {
+  font-family: 'MuseoSans-Bold';
+  src: url('fonts/museosans_900-webfont.ttf');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header .part1 {
+  background-color: #033e6b;
+  border-bottom: 2px solid #fff;
+}
+
+header .part2 {
+  background-color: #0b61a4;
+}
+
+header nav {
+  width: 960px;
+  margin: 0 auto;
+}
+
+header ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  color: #fff;
+}
+
+header li {
+  padding-right: 15px;
+  /* Text style for "Services" */
+  font-family: "MuseoSans-Light";
+  font-size: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  cursor: pointer;
+}
+
+header .part2 > div {
+  width: 960px;
+  margin: 0 auto;
+
+}
+
+header .part2 > div > div:first-child {
+  display: flex;
+  align-items: center;
+}
+
+header .part2 > div > div:first-child > p:first-child {
+  /* Base text style */
+  color: #fff;
+  font-family: "MuseoSans-Light";
+  font-size: 22px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+header .part2 > div > div:first-child > p:first-child strong {
+  font-family: "MuseoSans-Bold";
+}
+
+header .empty {
+  flex: 1;
+}
+
+header .call-us {
+  display: flex;
+  align-items: center;
+}
+
+header .call-us p {
+  margin: 0;
+  margin-left: 10px;
+  margin-right: 80px;
+}
+
+header .call-us p:first-child {
+  color: #61ade7;
+  font-family: "MuseoSans-Light";
+  font-size: 14px;
+}
+
+header .call-us p:last-child {
+  /* Text style for "+7 777 777" */
+  color: #fff;
+  font-family: "MuseoSans-Medium";
+  font-size: 18px;
+}
+
+header .notification-icon {
+  margin-right: 50px;
+}
+
+header select {
+  /* Text style for "USER" */
+  color: #fff;
+  font-family: 'MuseoSans-Light';
+  font-size: 17px;
+  width: 65px;
+  cursor: pointer;
+  text-transform: uppercase;
+  background: transparent url("images/arrow-down-man.png") no-repeat 45px 4px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  border: none;
+  outline: none;
+}
+
+header .links-block {
+  display: flex;
+  padding-bottom: 15px;
+}
+
+header a {
+  display: flex;
+  align-items: center;
+  background-color: #3f92d2;
+  height: 20px;
+  border: none;
+  color: #fff;
+  font-family: "MuseoSans-Light";
+  font-size: 13px;
+  text-decoration: none;
+  cursor: pointer;
+  text-transform: uppercase;
+  padding: 10px;
+  margin-right: 1px;
+}
+
+.main-block-with-photo {
+  padding-top: 10px;
+  background: url(images/60.png) no-repeat;
+  background-position-y: -140px;
+  background-size: cover;
+}
+
+.main-info {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.title-text {
+  /* Text style for "UK’s Best" */
+  color: #033e6b;
+  font-family: "MuseoSans-Light";
+  font-size: 41px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+.description-text {
+  /* Base text style */
+  width: 655px;
+  color: #033e6b;
+  font-family: "MuseoSans-Light";
+  font-size: 24px;
+}
+
+.description-text.two {
+  margin-top: 0;
+}
+
+.green-button {
+  cursor: pointer;
+  border: none;
+  width: 401px;
+  height: 44px;
+  background-color: #00bf32;
+  border-radius: 3px;
+  text-transform: uppercase;
+  text-shadow: -1.4px -1.4px 0 rgba(0, 0, 0, 0.2);
+  color: #fefefe;
+  font-family: "MuseoSans-Bold";
+  font-size: 20px;
+}
+
+.star {
+  font-family: "MuseoSans-Light";
+}
+
+.small-detail {
+  /* Text style for "*Discount" */
+  margin-left: 30px;
+  color: #9a9a9a;
+  font-family: "MuseoSans-Light";
+  font-size: 12px;
+}
+
+.four-icons-block {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  background: linear-gradient(to bottom, rgba(11, 97, 164, 0.82), rgba(11, 97, 164, 1));
+  text-align: center;
+}
+
+.four-icons-block_aligning {
+  width: 960px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.one-block-icon {
+  margin-right: 20px;
+  width: 300px;
+}
+
+.one-block-icon img {
+  height: 60px;
+}
+
+.one-block-icon p {
+  /* Text style for "We have sh" */
+  color: white;
+  font-family: "MuseoSans-Light";
+  font-size: 12px;
+  text-align: left;
+}
+
+.one-block-icon .icon-title {
+  /* Text style for "Fast and R" */
+  text-align: center;
+  height: 60px;
+  color: white;
+  font-family: "MuseoSans-Bold";
+  font-size: 18px;
+  text-transform: uppercase;
+  border-bottom: solid 1px white;
+}
+
+.standart-description_align {
+  width: 960px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.standart-description_align .main-title {
+  color: #0b61a4;
+  font-family: "MuseoSans-Bold";
+  font-size: 27px;
+  text-transform: uppercase;
+}
+
+.standart-description_align .regular-text {
+  color: #333;
+  text-align: justify;
+  font-family: "MuseoSans-Light";
+  font-size: 18px;
+  margin-top: 0;
+}
+
+.standart-description_align .green-button {
+  width: 220px;
+  margin-right: 40px;
+  height: 50px;
+}
+
+.transparent-button {
+  background: none;
+  width: 200px;
+  height: 50px;
+  background-color: white;
+  border: 1px solid #0b61a4;
+  border-radius: 3px;
+  color: #585858;
+  font-family: "MuseoSans-Light";
+  font-size: 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.block-with-image {
+  display: flex;
+}
+
+.block-with-buttons {
+  margin-left: 50px;
+}
+
+.smaller-text {
+  /* Text style for "Lorem ipsu" */
+  color: #b0b0b0;
+  font-family: "MuseoSans-Light";
+  font-size: 14px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  text-align: justify;
+}
+
+.block-with-ul {
+  height: 400px;
+  background-color: #f7f7f7;
+}
+
+.block-with-ul_align {
+  width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.align-ul {
+  display: flex;
+  padding-top: 50px;
+}
+
+.one-ul {
+  background: #fff;
+  display: flex;
+  align-items: center;
+  width: 470px;
+  height: 240px;
+  margin: 10px;
+}
+
+.block-with-ul li {
+  list-style: none;
+  background: url(images/1.png) no-repeat;
+  height: 35px;
+  padding-left: 45px;
+  padding-top: 3px;
+  color: #0b61a4;
+  font-family: "MuseoSans-Medium";
+  font-size: 20px;
+}
+
+.block-with-ul .green-button {
+  /* Text style for "ORDER ESSA" */
+  width: 293px;
+  text-shadow: -1.4px -1.4px 0 rgba(0, 0, 0, 0.2);
+  color: #fefefe;
+  font-family: "MuseoSans-Bold";
+  font-size: 23px;
+  margin-top: 20px;
+}
+
+.blue-block {
+  height: 434px;
+  background-color: #033e6b;
+  display: flex;
+  align-items: center;
+}
+
+.blue-block > div {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.free-title {
+  /* Text style for "Free Speci" */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: "MuseoSans-Bold";
+  font-size: 27px;
+  text-transform: uppercase;
+  background-color: #3f92d2;
+  border-radius: 3px;
+  height: 70px;
+}
+
+.free-title p {
+  margin: 0;
+}
+
+.ul-parent {
+  display: flex;
+  background-color: rgba(63, 146, 210, 0.39);
+  border-radius: 3px;
+  height: 270px;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom-ul {
+  /* Text style for "FREE Enqui" */
+  color: white;
+  font-family: "MuseoSans-Medium";
+  font-size: 20px;
+  line-height: 47px;
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  margin-right: 50px;
+}
+
+.custom-ul p {
+  margin: 0;
+}
+
+.custom-ul > div {
+  display: flex;
+  align-items: center;
+}
+
+.custom-ul > div > p:last-child {
+  padding-left: 10px;
+}
+
+.free {
+  width: 80px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #033e6b;
+  border: 1px solid white;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
+
+.testimonials-block {
+  background-color: #f7f7f7;
+  padding-top: 50px;
+}
+
+.testimonials-block > div {
+  text-align: center;
+  margin: 0 auto;
+  width: 960px;
+}
+
+.main-testimonials-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.main-testimonials-block > div {
+  margin-right: 30px;
+}
+
+.main-testimonials-block > div:last-child {
+  margin-right: 0;
+}
+
+.testimonials-title {
+  margin: 0;
+  color: #7c7c7c;
+  font-family: "MuseoSans-Bold";
+  font-size: 27px;
+  text-transform: uppercase;
+}
+
+.testimonials {
+  width: 800px;
+  text-align: left;
+}
+
+#prevArrow {
+  background: url(images/6.png) no-repeat;
+  width: 30px;
+  height: 77px;
+}
+
+#nextArrow {
+  width: 30px;
+  height: 77px;
+  background: url(images/8.png);
+}
+
+#nextArrow:hover {
+  background: url(images/7.png) no-repeat;
+}
+
+#prevArrow:hover {
+  background: url(images/7.png) no-repeat;
+  transform: rotate(180deg); 
+}
+
+.one-testimonial {
+  background-color: #fff;
+  width: 800px;
+  padding: 45px;
+}
+
+.slick-initialized .slick-slide {
+  display: flex;
+}
+
+.testimonials .info {
+  /* Base text style */
+  width: 565px;
+  font-family: "MuseoSans-Medium";
+  font-size: 18px;
+  text-align: justify;
+  color: black;
+  padding-left: 20px;
+}
+
+.testimonials .info p:last-child {
+  /* Text style for "Grace, Edi" */
+  color: #033e6b;
+  text-transform: uppercase;
+}
+
+.pre-footer > div {
+  width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pre-footer p {
+  color: #7c7c7c;
+  font-family: "MuseoSans-Bold";
+  font-size: 27px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.pre-footer .green-button {
+  width: 325px;
+  height: 55px;
+  font-size: 25px;
+  margin-bottom: 30px;
+}
+
+footer {
+  background-color: #033e6b;
+}
+
+.lists-block {
+  padding: 30px 0;
+}
+
+footer li {
+  list-style: none;
+  background: url(images/11.png) no-repeat;
+  height: 12px;
+  /* Text style for "Prices Ord" */
+  color: #fefefe;
+  font-family: "MuseoSans-Light";
+  font-size: 16px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  display: flex;
+  align-items: center;
+  padding-top: 1px;
+  cursor: pointer;
+}
+
+footer li:last-child {
+  padding-bottom: 0;
+}
+
+.lists-block > div {
+  width: 960px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.accept-block {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  width: 280px;
+  height: 120px;
+  border-radius: 3px;
+  margin-left: 50px;
+}
+
+.accept-block p {
+  margin-top: 0;
+  /* Text style for "WE ACCEPT:" */
+  color: #033e6b;
+  font-family: "MuseoSans-Bold";
+  font-size: 17px;
+  text-transform: uppercase;
+}
+
+.copyright-block {
+  background-color: #3f92d2;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.copyright-block > div {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.copyright-block p {
+  margin: 0;
+  margin-left: 30px;
+  /* Text style for "Copyright" */
+  color: white;
+  font-family: "MuseoSans-Light";
+  font-size: 15px;
+}
