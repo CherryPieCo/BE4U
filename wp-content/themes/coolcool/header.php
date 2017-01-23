@@ -25,30 +25,17 @@
 <div id="page" class="site">
 
 	<header id="masthead" class="site-header" role="banner">
-		<div class="part1">
-			<nav>
-				<ul>
-					<li><img src="<?php echo bloginfo('template_url'); ?>/images/domik.png"></li>
-					<li>Services</li>
-					<li>Prices</li>
-					<li>Order</li>
-					<li>Discounts</li>
-					<li>Samples</li>
-					<li>About Us</li>
-					<li>Contacts</li>
-				</ul>
-			</nav>
-		</div>
+	
 		<div class="part2">
 		<div>
 			<div>
-				<p style="cursor: pointer;" onclick="window.location = '/';"><strong>best</strong>essay4you.co.uk</p>
+				<p><strong>best</strong>essay4you.co.uk</p>
 				<div class="empty"></div>
 				<div class="call-us">
 					<div><img src="<?php echo bloginfo('template_url'); ?>/images/mobile-icon.png"></div>
 					<div class="call-us__phone">
-						<p>AU Phone:</p>
-						<p>+7 777 777 7777</p>
+						<p>UK Phone:</p>
+						<p></p>
 					</div>
 				</div>
 				<div class="notification-icon"><img src="<?php echo bloginfo('template_url'); ?>/images/notification-icon.png"></div>
@@ -59,15 +46,16 @@
 				</div>
 			</div>
 			<div class="links-block">
-				<a href="#">essay</a>
-				<a href="#">research paper</a>
+				<a href="https://bestessay4u.co.uk/assignment-help/">Assignment</a>
+				<a href="https://bestessay4u.co.uk/research-papers-help/">Research papers</a>
+				<a href="#">Homework</a>
 				<a href="#">coursework</a>
-				<a href="#">term paper</a>
+				<a href="#">Editing</a>
 				<a href="#">case study</a>
-				<a href="#">dissertation services</a>
-				<a href="#">admission services</a>
-				<a href="#">resume</a>
-				<a href="#">extras</a>
+				<a href="#">Lab Report</a>
+				<a href="#">Thesis Proposal</a>
+				<a href="#">Report</a>
+				
 			</div>
 		</div>
 		</div>

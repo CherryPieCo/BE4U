@@ -17,9 +17,9 @@
     <div class="lists-block">
       <div>
         <ul>
-          <li>Prices</li>
-          <li>Order custom essay</li>
-          <li>Sample Essays</li>
+           <li><a href="https://bestessay4u.co.uk/privacy-policy/">PRIVACY POLICY</a></li>
+	   <li><a href="https://bestessay4u.co.uk/terms-conditions/">TERMS & CONDITIONS</a></li>
+	   <li><a href="https://bestessay4u.co.uk/free-revision-policy/">FREE REVISION POLICY</a></li>
           <li>Custom term paper</li>
           <li>Affiliate program</li>
         </ul>
@@ -30,13 +30,7 @@
           <li>Essay writers</li>
           <li>Writing Process</li>
         </ul>
-        <ul>
-          <li>Contact us</li>
-          <li>Glossary</li>
-          <li>Terms and conditions</li>
-          <li>Privacy policy</li>
-          <li>Sitemap</li>
-        </ul>
+       
         <div class="accept-block">
           <p>we accept:</p>
           <img src="<?php echo bloginfo('template_url'); ?>/images/10.png">

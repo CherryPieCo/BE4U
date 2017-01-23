@@ -53,19 +53,20 @@ get_header(); ?>
 		</aside>
 		<aside>
 			<div class="standart-description_align">
-				<p class="main-title">your title text here</p>
-				<p class="regular-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+				<h1 class="main-title">Your Reliable Essay Writing Help</h1>
+				<p class="regular-text">Essay writing services online are already a dime a dozen.  With so many research papers to write, students are increasingly looking into <strong>these services to help</strong> them save their time and survive in high school, college, and even postgraduate programs. The problem is deciding which among those claiming they can help is the best essay writing service.</p>
 				<div class="block-with-image">
 					<img src="<?php echo bloginfo('template_url'); ?>/images/college-students.png">
 					<div class="block-with-buttons">
-						<p class="regular-text regular-text2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+						<p class="regular-text regular-text2">If you are one of these students yearning for a legitimate writer to offer assistance in your already mountain-high research requirements, then finding the best one is crucial. Instead of getting a good grade and learning something in the process, you do not want to fail, right? Not doing some research on what makes an essay writing service of quality will certainly land you in more trouble than you writing your research projects on your own.</p>
 						<div class="two-buttons">
 							<button class="green-button">order now</button>
 							<button class="transparent-button">learn more</button>
 						</div>
 					</div>
 				</div>
-				<p class="smaller-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+				<p class="regular-text">Determining the best essay writing service is not easy. Fortunately, though, the great ones have common characteristics that you can use as benchmarks. Below are some of these features you should watch out for so that whenever you think you need help, get the best essay for you all the time.</p>
+
 			</div>
 		</div>
 	</aside>
@@ -142,6 +143,68 @@ get_header(); ?>
 		<div>
 			<p>don't lag behind</p>
 			<button class="green-button">order now</button>
+		</div>
+	</aside>
+
+<aside>
+			<div class="standart-description_align">
+			
+<H2>The Company Offers Free Samples and Revisions</h2>
+<div class="block-with-image">
+					<img src="<?php echo bloginfo('template_url'); ?>/images/icon_essays.png">
+					<div class="block-with-buttons">
+<p class="regular-text regular-text2">No company would want to offer services for free. For any business entities, anything free is considered a loss. For an essay writing company willing to offer you free samples is an indication that the firm takes pride in what they can do for you. However, more importantly, if the company offers you free edits and revisions, this is an even better indication of the company's quality. By providing free edits and revisions, you will have the chance to have an unsatisfactory paper changed according to what you want and envision. This is an indication that the company is legitimate and cares about customer satisfaction.</p>
+						
+					</div>
+				</div>
+<h2>The Company Offers Great Support</h2>
+<div class="block-with-image">
+					<img src="<?php echo bloginfo('template_url'); ?>/images/icon_support.png">
+					<div class="block-with-buttons">
+<p class="regular-text regular-text2">By great support, this goes beyond having 24/7 customer service. Instead of just being there round the clock to answer your queries and attend to your feedback, the best essay writing service company would make sure you do not need to talk to them regularly in the first place, especially after the composition is completed. This is because right from the start, the company can already guarantee significant years of experience, 100% complete satisfaction, and <strong>100% custom-written essays</strong>. For one, no plagiarism issues will arise when you submit your paper for sure! A great company would throw in a plagiarism report for you so that you feel at ease when presenting the paper, knowing you are not submitting a rehashed or recycled paper. Want your paper written in UK English? For a great essay writing service provider it is not a problem at all!</p>
+						
+					</div>
+				</div>
+
+<h2>The Company Actually Wants You To Learn</h2>
+<div class="block-with-image">
+					<img src="<?php echo bloginfo('template_url'); ?>/images/icon_learn.png">
+					<div class="block-with-buttons">
+<p class="regular-text regular-text2">The company may be writing your articles for you, but the best ones are those that genuinely cares about your learning and achievement. The excellent <a href="http://library.bcu.ac.uk/learner/writingguides/1.01%20Essays.htm">essay writing</a> services are those that know that given more time, you would rather do your essays on your own. Therefore, they will be careful not to risk your grades by giving you a lousy paper. In fact, the paper will be done so well that upon receiving it, you can read it and understand it on your own.</p>
+						
+					</div>
+				</div>
+
+<h2>The Company Has A Convenient Payment System</h2>
+<div class="block-with-image">
+					<img src="<?php echo bloginfo('template_url'); ?>/images/icon_compet.png">
+					<div class="block-with-buttons">
+<p class="regular-text regular-text2">Nothing is more annoying than trying to purchase a service online and having problems paying. Nothing drives away potential clients the most. Regardless of how great the promised service is, if a customer feels that it is cumbersome to get the service, then he or she will just go to another merchant. After all, it is no exaggeration that there are a lot of essay writing services out there. Clients feel that they are in the place when they can pay easily and get the services they need on time.  The payment system should not only be easy to use but more importantly, it should be secure. A company that takes time and devote effort to making their clients feel secure hints how much they care for their customers. </p>
+						
+					</div>
+				</div>
+
+<h2>The Company Offers Money-Back Guarantee</h2>
+<div class="block-with-image">
+					<img src="<?php echo bloginfo('template_url'); ?>/images/icon_privacy.png">
+					<div class="block-with-buttons">
+<p class="regular-text regular-text2">First-time <a href="https://library.leeds.ac.uk/info/478/essay_writing/333/essay_writing/6">students who want their essays</a> written are usually worried about the services they will solicit online. A money-back guarantee helps them feel better and more willing to get the service. This is a clear sign of the company's prioritization of clients' satisfaction as well. No company wants to work on orders and then end up not getting any payment! The fact that the business is willing to return your money if you decide that it is not at par with your expectations is a good sign that the company is a great one.</p>
+						
+					</div>
+				</div>
+
+<h2>The Company Has Great Reviews</h2>
+<div class="block-with-image">
+					<img src="<?php echo bloginfo('template_url'); ?>/images/icon_review.png">
+					<div class="block-with-buttons">
+<p class="regular-text regular-text2">An <a href="http://www2.le.ac.uk/offices/ld/resources/writing/writing-resources/writing-essays">excellent essay writing</a> service should naturally have a good reputation. Student testimonies and reviews can serve as the basis for this. You may opt to check out the reviews generally published on the sites or even look for reviews elsewhere, on third-party sites. The great ones will surely have some students gushing about the papers they received.</p>
+						
+					</div>
+				</div>
+
+<p class="regular-text">Before placing an order for an essay, make a detailed study of the company you want to do your paper. If you have no time to do so, you can try <strong>Best essay 4 u</strong>, which is a known site for offering quality services, ensuring high customer satisfaction, and having great reviews! 
+</p>
+			</div>
 		</div>
 	</aside>
 
